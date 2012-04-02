@@ -5,7 +5,7 @@ crawler.py user manual
 Installation
 ================================================================================
 Before running the script, make sure you have the following packages 
-acessible from your python path:
+accessible from your python path:
 
 1. argparse
 2. urllib2
@@ -25,9 +25,11 @@ Usage details are available in the standard help and can be accessed with:
     
     ./crawler.py --help
 
-Usually you'll use it like this:
+Usually you will use the script like this:
 
     ./crawler.py www.polymtl.ca email
+
+Replace www.polymtl.ca and email to suit your needs.
 
 Known issues
 ================================================================================
